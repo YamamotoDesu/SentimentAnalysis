@@ -1,5 +1,7 @@
 # SentimentAnalysis
 
+<img width="300" alt="スクリーンショット 2023-01-02 15 27 04" src="https://user-images.githubusercontent.com/47273077/210200305-d39e382f-0dc1-4124-9597-057f4ded6390.gif">
+
 <img width="787" alt="epinions3_csv" src="https://user-images.githubusercontent.com/47273077/210200178-f402c1ed-a999-486a-b137-a518d1d2a74f.png">
 <img width="545" alt="positive" src="https://user-images.githubusercontent.com/47273077/210200206-73ec12bd-998c-4f3e-9120-2ebc6fdfc77b.png">
 
